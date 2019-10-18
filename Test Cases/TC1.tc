@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12e56813-18e2-4aff-9ac0-c829b855838a</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>01955dbb-6de9-46ab-bcdf-11e2a47ec7e9</id>
+      <masked>false</masked>
+      <name>smpltxt</name>
+   </variable>
+</TestCaseEntity>
